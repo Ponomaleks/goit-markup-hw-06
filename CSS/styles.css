@@ -865,6 +865,8 @@ form .modal-btn {
 
 .modal-checkbox_line {
   display: flex;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .close_modal-btn_button {
